@@ -4,7 +4,7 @@ __<h1 align="center">Hi 👋🏻, I'm Antonella Lucero Vetack</h1><br><h3 align=
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/antonellalucerovetack) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/antonellalucerovetack) <br>
 [Ideogram](https://ideogram.ai/u/antonellalv/generated)
 
 # 💻 Tech Stack:
