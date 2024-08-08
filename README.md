@@ -5,7 +5,7 @@ __<h1 align="center">Hi 👋🏻, I'm Antonella Lucero Vetack</h1><br><h3 align=
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/antonellalucerovetack) <br>
-[![Ideogram](https://img.shields.io/badge/Ideogram-%23000000.svg?logo=https://calima.s3.eu-west-3.amazonaws.com/iebis/bsm-prod/mGhDDsS3qzR6ZgVp46jjVRPY5zDmAJtgqSOIyUIn.png&logoColor=white)](https://ideogram.ai/u/antonellalv/generated)
+[![Ideogram](https://img.shields.io/badge/Ideogram-%23FFFFFF.svg?logo=https://calima.s3.eu-west-3.amazonaws.com/iebis/bsm-prod/mGhDDsS3qzR6ZgVp46jjVRPY5zDmAJtgqSOIyUIn.png&logoColor=white)](https://ideogram.ai/u/antonellalv/generated)<br>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/AntonellaLV)
 
 # 💻 Tech Stack:
