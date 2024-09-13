@@ -5,7 +5,7 @@ __<h1 align="center">Hi 👋🏻, I'm Antonella Lucero Vetack</h1><br><h3 align=
 
 ## 🌐 Socials:
 
-[![Linktree](https://img.shields.io/badge/Linktree-%23008000.svg?logo=linkedin&logoColor=white)](https://linktr.ee/antolvtechAI)
+[![Linktree](https://img.shields.io/badge/Linktree-%23008000.svg?logoColor=black)](https://linktr.ee/antolvtechAI)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/antonellalucerovetack)
 [![Ideogram](https://img.shields.io/badge/Ideogram-%23000000.svg?logo=https://calima.s3.eu-west-3.amazonaws.com/iebis/bsm-prod/mGhDDsS3qzR6ZgVp46jjVRPY5zDmAJtgqSOIyUIn.png&logoColor=white)](https://ideogram.ai/u/antonellalv/generated)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23ff0000.svg?logo=https://calima.s3.eu-west-3.amazonaws.com/iebis/bsm-prod/mGhDDsS3qzR6ZgVp46jjVRPY5zDmAJtgqSOIyUIn.png&logoColor=red)](https://pin.it/1PyFADQCL)
